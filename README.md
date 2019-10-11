@@ -19,4 +19,3 @@ Provides with an easy way of doing a lookup on any given table.
 // RecordLookup ...
 func RecordLookup(table string, attrToGet string, conditionLeft string, conditionRight string) (*dynamodb.QueryOutput, error)
 ```
-# go-dyndb

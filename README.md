@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/a-romero/go-dyndb)](https://goreportcard.com/report/github.com/a-romero/go-dyndb)
 # go-dyndb
 
 Package records has got the following functions:

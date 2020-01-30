@@ -1,4 +1,4 @@
-module github.com/a-romero/go-dyndb
+module github.com/humn-ai/go-dyndb
 
 go 1.12
 
